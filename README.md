@@ -5,4 +5,4 @@ Download the orginal dataset (speech_commands_v0.01) using <a href="https://pyto
 
 Or, you can download the dataset <a href="https://drive.google.com/file/d/17N-FvC_btw06-Ag0NrrBHanYnRkAA1CW/view?usp=drive_link">here</a>.
 
-![Speech Commands-LT distribution](speech_commands_lt_dist.pdf)
+![Speech Commands-LT distribution](speech_commands_lt_dist.png)
